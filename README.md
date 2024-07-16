@@ -3,7 +3,7 @@ The official implementation of ACL 2024 findings
 
 
 
-# Preprocess training dataset
+# Training dataset & Evaluation dataset
 
 
 The [mycareersfuture.sg](https://github.com/WING-NUS/JD2Skills-BERT-XMLC/tree/main) is used as a training dataset. We concatenate the fields "Role & Responsibilities" and "Job Requriement" to represent the job description.
