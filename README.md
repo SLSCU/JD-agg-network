@@ -14,3 +14,6 @@ The evaluation dataset is taken from [ESCO-Job Normalization](https://github.com
 
 # JDAN pretraining model
 Our pre-trained job title representation model can be found on 🤗 [https://huggingface.co/napatnicky/JDAN-mycareersfuture.sg](https://huggingface.co/napatnicky/JDAN-mycareersfuture.sg)
+
+# Citing this Work
+If you use this work, please cite us with:
