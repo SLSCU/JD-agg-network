@@ -6,7 +6,7 @@ The official implementation of ACL 2024 findings ["Learning Job Title Representa
 
 # Motivation
 
-<img src="motivation.png" height="40">
+<img src="motivation.png" height="400">
 
 This work presents a novel framework for learning job title representations by using job description (JDs), bypassing the traditional dependence on skill extraction.
 
