@@ -5,7 +5,7 @@ The [mycareersfuture.sg](https://github.com/WING-NUS/JD2Skills-BERT-XMLC/tree/ma
 
 
 
-The evaluation dataset is from [ESCO-Job Normalization](https://github.com/jensjorisdecorte/JobBERT-evaluation-dataset)
+The evaluation dataset is taken from [ESCO-Job Normalization](https://github.com/jensjorisdecorte/JobBERT-evaluation-dataset) where the goal is to predict the standized version of each job title. Following the jobbert paper, we measure micro-average R@5,R@10 and MRR to .
 
 
 Our pre-trained job title representation model can be found on [https://huggingface.co/napatnicky/JDAN-mycareersfuture.sg](https://huggingface.co/napatnicky/JDAN-mycareersfuture.sg)
