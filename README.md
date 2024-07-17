@@ -8,7 +8,7 @@ The official implementation of ACL 2024 findings ["Learning Job Title Representa
 
 <img src="motivation.png" width="60%">
 
-This work presents a novel framework (B) for learning job title representations by using job description (JDs), bypassing the traditional dependence on skill extraction (A).
+This work presents a novel framework for learning job title representations by using job description (B), bypassing the traditional dependence on skill extraction (A).
 
 
 # Training dataset & Evaluation dataset
