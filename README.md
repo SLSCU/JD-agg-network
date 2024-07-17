@@ -1,12 +1,12 @@
 # Learning Job Title Representation from Job Description Aggregation Network
 The official implementation of ACL 2024 findings ["Learning Job Title Representation from Job Descritpion Aggregation Network"](https://arxiv.org/pdf/2406.08055)
 
-<img src="JDAN-architecture.png" >
+<img src="src/JDAN-architecture.png" >
 
 
 # Motivation
 
-<img src="motivation.png" width="60%">
+<img src="src/motivation.png" width="60%">
 
 This work presents a novel framework for learning job title representations by using job description (B), bypassing the traditional dependence on skill extraction (A).
 
