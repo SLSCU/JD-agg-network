@@ -16,7 +16,7 @@ This work presents a novel framework for learning job title representations by u
 ## Download dataset
 training dataset & evaluation dataset:[dataset](https://drive.google.com/drive/folders/1r0EyBPgC0AHw9f3DgKYRgeYAYrDzhoS4?usp=drive_link)
 
-## dataset details
+## Dataset details
 The [mycareersfuture.sg](https://github.com/WING-NUS/JD2Skills-BERT-XMLC/tree/main) is used as a training dataset. We concatenate the fields "Role & Responsibilities" and "Job Requriement" to represent the job description.
 
 The evaluation dataset is taken from [ESCO-Job Normalization](https://github.com/jensjorisdecorte/JobBERT-evaluation-dataset) where the goal is to predict the standized version of each job title. Following the original paper, we measure micro-average R@5,R@10 and MRR.
