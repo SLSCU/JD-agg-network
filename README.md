@@ -26,3 +26,5 @@ Our pre-trained job title representation model can be found on 🤗 [https://hug
 
 # Citing this Work
 If you use this work, please cite us with:
+
+# acknowledgement
