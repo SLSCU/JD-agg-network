@@ -25,7 +25,7 @@ The evaluation dataset is taken from [ESCO-Job Normalization](https://github.com
 Our pre-trained job title representation model can be found on 🤗 [https://huggingface.co/napatnicky/JDAN-mycareersfuture.sg](https://huggingface.co/napatnicky/JDAN-mycareersfuture.sg)
 # Cite me 
 If you use this model, please cite the following paper:
-@inproceedings{laosaengpha-etal-2024-learning,
+```@inproceedings{laosaengpha-etal-2024-learning,
     title = "Learning Job Title Representation from Job Description Aggregation Network",
     author = "Laosaengpha, Napat  and
       Tativannarat, Thanit  and
@@ -44,7 +44,7 @@ If you use this model, please cite the following paper:
     pages = "1319--1329",
     abstract = "Learning job title representation is a vital process for developing automatic human resource tools. To do so, existing methods primarily rely on learning the title representation through skills extracted from the job description, neglecting the rich and diverse content within. Thus, we propose an alternative framework for learning job titles through their respective job description (JD) and utilize a Job Description Aggregator component to handle the lengthy description and bidirectional contrastive loss to account for the bidirectional relationship between the job title and its description. We evaluated the performance of our method on both in-domain and out-of-domain settings, achieving a superior performance over the skill-based approach.",
 }
-
+```
 
 
 # Acknowledgement
