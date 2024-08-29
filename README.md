@@ -25,7 +25,8 @@ The evaluation dataset is taken from [ESCO-Job Normalization](https://github.com
 Our pre-trained job title representation model can be found on 🤗 [https://huggingface.co/napatnicky/JDAN-mycareersfuture.sg](https://huggingface.co/napatnicky/JDAN-mycareersfuture.sg)
 # Cite me 
 If you use this model, please cite the following paper:
-```@inproceedings{laosaengpha-etal-2024-learning,
+```
+@inproceedings{laosaengpha-etal-2024-learning,
     title = "Learning Job Title Representation from Job Description Aggregation Network",
     author = "Laosaengpha, Napat  and
       Tativannarat, Thanit  and
